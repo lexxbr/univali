@@ -1,0 +1,10 @@
+C:\Users\LEXx\source\repos\Minha Calculadora v1\bin\Debug\Minha Calculadora v1.exe.config
+C:\Users\LEXx\source\repos\Minha Calculadora v1\bin\Debug\Minha Calculadora v1.exe
+C:\Users\LEXx\source\repos\Minha Calculadora v1\bin\Debug\Minha Calculadora v1.pdb
+C:\Users\LEXx\source\repos\Minha Calculadora v1\obj\Debug\Minha Calculadora v1.csproj.AssemblyReference.cache
+C:\Users\LEXx\source\repos\Minha Calculadora v1\obj\Debug\Minha_Calculadora_v1.FormCalc.resources
+C:\Users\LEXx\source\repos\Minha Calculadora v1\obj\Debug\Minha_Calculadora_v1.Properties.Resources.resources
+C:\Users\LEXx\source\repos\Minha Calculadora v1\obj\Debug\Minha Calculadora v1.csproj.GenerateResource.cache
+C:\Users\LEXx\source\repos\Minha Calculadora v1\obj\Debug\Minha Calculadora v1.csproj.CoreCompileInputs.cache
+C:\Users\LEXx\source\repos\Minha Calculadora v1\obj\Debug\Minha Calculadora v1.exe
+C:\Users\LEXx\source\repos\Minha Calculadora v1\obj\Debug\Minha Calculadora v1.pdb
